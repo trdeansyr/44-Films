@@ -1,0 +1,170 @@
+body{
+	background-color:#ffffff;
+}
+
+/* top navbar background */
+.navbar{
+	background-color:#000E54 !important;
+}
+
+/* navbar links */
+.navbar-dark .navbar-nav .nav-link{
+	color:#ffffff;
+	font-family: 'Rajdhani';
+	font-size: 1em;
+}
+
+/* navbar link hover */
+.navbar-dark .navbar-nav .nav-link:hover{
+	color:#F76900;
+}
+
+/* hamburger */
+.navbar-toggler{
+    background-color:none;
+    border-color:rgba(255, 255, 255, 0);
+}
+
+.navbar-toggler-icon{
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 255, 255, 1%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e")
+}
+
+/* offcanvas navbar */
+.offcanvas{
+	background-color:#000E54 !important;
+}
+
+/* close button */
+.btn-close-white-bg{
+	background:url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23fff'%3e%3cpath d='M.293.293a1 1 0 011.414 0L8 6.586 14.293.293a1 1 0 111.414 1.414L9.414 8l6.293 6.293a1 1 0 01-1.414 1.414L8 9.414l-6.293 6.293a1 1 0 01-1.414-1.414L6.586 8 .293 1.707a1 1 0 010-1.414z'/%3e%3c/svg%3e") center/1em auto no-repeat;
+	opacity:1;
+}
+
+.btn-close-white-bg:hover{
+	background:url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23F76900'%3e%3cpath d='M.293.293a1 1 0 011.414 0L8 6.586 14.293.293a1 1 0 111.414 1.414L9.414 8l6.293 6.293a1 1 0 01-1.414 1.414L8 9.414l-6.293 6.293a1 1 0 01-1.414-1.414L6.586 8 .293 1.707a1 1 0 010-1.414z'/%3e%3c/svg%3e") center/1em auto no-repeat;
+	opacity:1;
+}
+
+
+
+footer{
+	background-color:#000E54;
+}
+
+.Recent{
+	color: #F76900;
+	text-align: center;
+	font-family: 'Rajdhani';
+	font-size: 4em;
+	font-weight: bolder;
+}
+
+h2{
+	color: #000E54;
+	font-family: 'Rajdhani';
+	font-weight:bold;
+	font-size: 1.75em;	
+}
+
+p{
+	color: #000E54;
+	font-family: 'Montserrat';
+	font-size: 1.25em;
+}
+
+.card-title{
+	color: #F76900;
+	font-family: 'Rajdhani';
+	font-size: 2em;
+}
+
+.card-text{
+	color: #000E54;
+	font-family: 'Montserrat';
+	font-size: 1.25em;
+}
+
+.btn{
+	background-color: #000E54;
+	color: #FFFFFF;
+	font-size: 1.25em !important;
+	font-family: 'Rajdhani';
+}
+
+.btn:hover{
+	background-color: #707780 !important;
+	color: #FFFFFF !important;
+}
+
+.contact-images{
+	border-radius: 80%;
+	width: 250px;
+	height: 250px;
+}
+
+.footer-logo{
+	width: 50%;
+	height: 85%;
+}
+
+.copy{
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+.copy-words{
+	font-family: 'Montserrat';
+	color: #FFFFFF;
+	font-size: .75em;
+	text-align: center;
+}
+
+.footer-words{
+	font-family: 'Rajdhani';
+	color: #FFFFFF;
+	font-size: 1em;
+	text-align: center;
+}
+
+.footer-words:hover{
+	color: #F76900;
+}
+
+a{
+	text-decoration: none;
+}
+
+.mission{
+	border-style: double;
+	border-width: 10px;
+	border-color: #F76900;
+	font-weight: normal;
+	border-radius: 5px;
+	padding: 10px;
+	font-size: 1.5em;
+}
+
+.name{
+	font-weight: bolder !important;
+}
+
+.film-page{
+	font-family: 'Rajdhani';
+	font-size: 3em;
+	color: #000E54;
+	font-weight: bolder;
+}
+
+h4{
+	font-family: 'Rajdhani';
+	font-size: 2em;
+	color: #000000;
+	font-weight: bold;
+}
+
+.film-words{
+	font-family: 'Montserrat';
+	font-size: 1em;
+	color: #000000;
+	font-weight: bold;
+}
